@@ -1,0 +1,9 @@
+{
+  "name": "tooltip",
+  "repo": "bscomp/tooltip",
+  "description": "component-bootstrap",
+  "version": "0.0.1",
+  "dependencies": {
+  },
+  "styles": ["index.less"]
+}
